@@ -9,8 +9,3 @@ Nginx 1.22.1 + PHP>7.4 + Mysql>5.6
 
 # 注意事项
 logo放在static/logo.png
-
-# 更新记录
-
-v1.1
-修复部分显示问题，添加批量修改状态
