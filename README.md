@@ -1,5 +1,5 @@
 # xp_mb
-小票风格的米表，演示地址<http://mi.sen.ge/>
+小票风格的米表
 # 搭建方法
 将sql文件导入数据库后修改admin\config\database.php里面的信息
 ## 默认信息
